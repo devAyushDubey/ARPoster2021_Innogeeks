@@ -2,7 +2,7 @@
 
 >Image Target: 
 
-## This is a repo containg project files for Innogeeks 2021 Recruitment AR Poster Application..
+## This is a repo containg project files for Innogeeks 2021 Recruitment AR Poster Application.
 
 ### Description
 The AR app has many different section and views for the interaction and user interface and a single scene. It has UI logic and animations, domain intoductions etc.
