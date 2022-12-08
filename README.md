@@ -19,5 +19,5 @@ The AR app has many different section and views for the interaction and user int
 - Clone the project to your local.
 - Open the project folder with Unity Hub (Unity Version 2018 preferred).
 - Install and setup Vuforia as a dependancy.
-- Run a the project.
+- Run the project.
 - And you are good to go!
