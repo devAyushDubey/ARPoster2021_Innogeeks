@@ -17,7 +17,7 @@ The AR app has many different section and views for the interaction and user int
 
 - Fork the repository.
 - Clone the project to your local.
-- Open the project folder with Android Studio.
+- Open the project folder with Unity Hub (Unity Version 2018 preferred).
 - Install and setup Vuforia as a dependancy.
 - Run a the project.
 - And you are good to go!
